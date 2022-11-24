@@ -1,7 +1,7 @@
 #EXTM3U
 
-LonnyToons
+#EXTINF: LonnyToons
 https://raw.githubusercontent.com/madagama89/listas/main/LonnyToons.m3u8
 
-LosPicapiedra
+#EXTINF: LosPicapiedra
 https://raw.githubusercontent.com/madagama89/listas/main/losPicapiedra.m3u8
