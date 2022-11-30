@@ -1,13 +1,10 @@
 #EXTM3U
 
-#EXT-X-PLAYLIST-TYPE:VOD
-#PLAYLIST:Cross Over
-
-#EXTINF:0, No Me Digas Que No - La Makina
+No Me Digas Que No - La Makina
 https://files.fm/down.php?i=fuy7bjnbh
 
-#EXTINF:-1, ACÁ ENTRE NOS - Vicente Fernández
+ACÁ ENTRE NOS - Vicente Fernández
 https://files.fm/down.php?i=8nfbqkqda
 
-#EXTINF: Alejandro Gonzalez - El Amor De Su Vida
+Alejandro Gonzalez - El Amor De Su Vida
 https://files.fm/down.php?i=rmjfz8c7h
