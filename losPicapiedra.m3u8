@@ -3,7 +3,7 @@
 #EXT-X-PLAYLIST-TYPE:VOD
 #PLAYLIST:Los Picapiedra
 
-#EXTINF: 123, LPP-01X001 El Pica Avion
+##EXT-X-STREAM-INF: PROGRAM-ID=1,BANDWIDTH=2149280,CODECS="mp4a.40.2,avc1.64001f",RESOLUTION=1280x720,NAME="720"
 https://files.fm/down.php?i=gtu8vhend
 #EXTINF: 123, LPP-01X002 Noche de Parranda
 https://files.fm/down.php?i=4fbgbgrw7
